@@ -4,6 +4,8 @@ Summary
 This software can be used to reproduce the results in our "SimplE Embedding for Link Prediction in Knowledge Graphs" paper. It can be also used to learn `SimplE` models for other datasets. The software can be also used as a framework to implement new tensor factorization models (implementations for `TransE` and `ComplEx` are included as two examples).
 
 ## Dependencies
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FSimplE.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FSimplE?ref=badge_shield)
+
 
 * `Python` version 2.7 or higher
 * `Numpy` version 1.13.1 or higher
@@ -79,3 +81,7 @@ Copyright (C) 2018  Seyed Mehran Kazemi
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FSimplE.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarsonkahn-volley%2FSimplE?ref=badge_large)
